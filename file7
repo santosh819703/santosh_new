@@ -6,7 +6,13 @@ This is third lin of the file
 This is fourth line
 
 This is fifth and last line of file
+<<<<<<< HEAD
 
 This is sixth line
 
 this is eighth line
+=======
+THIS IS TENTH LINE
+
+this is eleventh line 
+>>>>>>> 16f338178e3ccd62af95daf68b3cf40377664bdc
